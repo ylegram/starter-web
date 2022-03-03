@@ -6,4 +6,6 @@
 
 ## Deployment
 
+Bastaaaaaa
+
 ## How To Contribute

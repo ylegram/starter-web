@@ -9,3 +9,6 @@
 Bastaaaaaa
 
 ## How To Contribute
+
+
+##Copyright

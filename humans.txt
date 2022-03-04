@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ylenia Gramuglia yleg@live.it
 
 # THANKS
 

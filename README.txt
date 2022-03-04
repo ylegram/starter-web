@@ -1,6 +1,6 @@
 #Starte Web Project
 
-Adding line for rebasing example
+Adding line for rebasing example, the more changes from myfeature b too
 
 ## Introduction
 
